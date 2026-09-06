@@ -9,7 +9,7 @@
 ## 🎨 Installation
 
 ```sh
-ya pkg add splixx05/ElectricMidnight
+ya pkg add splixx05/electricmidnight
 ```
 
 ## ⚙️ Usage
